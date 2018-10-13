@@ -1,2 +1,1 @@
-# github_practice
-# github_practice
+# tinder右スワイプ
